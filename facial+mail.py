@@ -45,13 +45,13 @@ def sm():
     global dtct
     while True:
         if dtct is 1:
-            email_id="niksagarwal13@gmail.com"
-            email_pass="zgqnaekstnngbncs"
+            email_id="senders_email_id"
+            email_pass="senders_app_passwork"
             
             msg=EmailMessage()
             msg['Subject']='MOTION DETECTED'
             msg['from']=email_id
-            msg['to']='nikhilmeranaam@gmail.com'
+            msg['to']='receivers_email_id'
             msg.set_content('This is the clicked photo')
 
             with open('motion.jpeg','rb') as f:
