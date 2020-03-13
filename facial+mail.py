@@ -46,7 +46,7 @@ def sm():
     while True:
         if dtct is 1:
             email_id="senders_email_id"
-            email_pass="senders_app_passwork"
+            email_pass="senders_app_password"
             
             msg=EmailMessage()
             msg['Subject']='MOTION DETECTED'
