@@ -9,7 +9,7 @@ Full Body Detection
 
 
 # This project can only run on Raspberry Pi with the following Python Libraries:
-picamera
-nunpy
-opencv(cv2)
-picamera.array
+ picamera
+ nunpy
+ opencv(cv2)
+ picamera.array
