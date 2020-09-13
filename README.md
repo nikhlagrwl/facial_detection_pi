@@ -13,3 +13,5 @@ Full Body Detection</br>
  numpy</br>
  opencv(cv2)</br>
  picamera.array</br>
+
+![Output Image](https://drive.google.com/file/d/10TuBpfYSw-eX2jsGve19POH3rDdFtk1f/view?usp=sharing)
