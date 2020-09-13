@@ -14,4 +14,5 @@ Full Body Detection</br>
  opencv(cv2)</br>
  picamera.array</br>
 
+# The Output Image will look like this
 ![Output Image](https://github.com/nikhlagrwl/facial_detection_pi/blob/master/result/motion.jpeg)
